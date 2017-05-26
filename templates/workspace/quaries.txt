@@ -1,0 +1,4 @@
+ImmutableMultiDict([('Message', u'jhcwegcjhegjchgs'), ('PhoneNumber', u'20230972394872349823'), ('Name', u'Ars'), ('Email', u'kidosol2256@gmail.com')])
+ImmutableMultiDict([('Message', u'jhcwegcjhegjchgs'), ('PhoneNumber', u'20230972394872349823'), ('Name', u'Ars'), ('Email', u'kidosol2256@gmail.com')])
+ImmutableMultiDict([('Message', u'jhcwegcjhegjchgs'), ('PhoneNumber', u'20230972394872349823'), ('Name', u'Ars'), ('Email', u'kidosol2256@gmail.com')])
+ImmutableMultiDict([('Message', u'sjdhfxvckjxdchsdkjchsdjhcsk'), ('PhoneNumber', u'2048232397492387'), ('Name', u'kirshan'), ('Email', u'kidomap2180@gmail.com')])
